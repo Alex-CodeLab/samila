@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/sepandhaghighi/samila/raw/master/otherfiles/logo.png" width=400 height=400>
+	<img src="https://github.com/sepandhaghighi/samila/raw/master/otherfiles/logo.png" width="400">
 	<br/>
 	<h1>Samila</h1>
 	<br/>
@@ -54,8 +54,7 @@ Samila is a generative art generator written in Python, Samila lets you create i
 <table>
 	<tr> 
 		<td align="center">Code Quality</td>
-		<td><a href="https://www.codacy.com/gh/sepandhaghighi/samila/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sepandhaghighi/samila&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/14df8ed5f8434aaea85889555b0182a9"/></a></td>
-		<td><a href="https://codebeat.co/projects/github-com-sepandhaghighi-samila-dev"><img alt="codebeat badge" src="https://codebeat.co/badges/01e6aa48-4cc2-4d9c-8288-c9fb490ad371" /></a></td>
+		<td><a href="https://app.codacy.com/gh/sepandhaghighi/samila/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/14df8ed5f8434aaea85889555b0182a9"/></a></td>
 		<td><a href="https://www.codefactor.io/repository/github/sepandhaghighi/samila"><img src="https://www.codefactor.io/repository/github/sepandhaghighi/samila/badge" alt="CodeFactor" /></a></td>
 	</tr>
 </table>
@@ -459,7 +458,7 @@ Give a ⭐️ if this project helped you!
 
 If you do like our project and we hope that you do, can you please support us? Our project is not and is never going to be working for profit. We need the money just so we can continue doing what we do ;-) .			
 
-<a href="http://www.samila.site/donate.html" target="_blank"><img src="https://github.com/sepandhaghighi/samila/raw/master/otherfiles/donate-button.png" height="90px" width="270px" alt="Samila Donation"></a>
+<a href="http://www.samila.site/donate.html" target="_blank"><img src="https://github.com/sepandhaghighi/samila/raw/master/otherfiles/donate-button.png" width="270" alt="Samila Donation"></a>
 
 
 
